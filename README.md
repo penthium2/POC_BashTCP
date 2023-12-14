@@ -14,7 +14,7 @@ Le fichier poc.sh
 
         Script qui va se connecter au serveur et répondre oui puis affichier le FLAG
 
-Biensur pour des connexions plus complexe ce script devra etre adapté, je pense a des serveur qui envois plusieur ligne des explications, intéragisse plusieurs fois, etc...
+Bien sûr, pour des connexions plus complexes, ce script devra être adapté. Je pense à des serveurs qui envoient plusieurs lignes d'explications, interagissent plusieurs fois, etc...
 
 Mais là vous avez la base..
 
