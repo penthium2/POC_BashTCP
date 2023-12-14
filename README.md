@@ -1,6 +1,6 @@
 # POC_BashTCP
 
-Voic un petit poc pour montrer comment gérer une connexion TCP avec BASH.
+Voici un petit poc pour montrer comment gérer une connexion TCP avec BASH.
 
 Ce POC contient 2 fichiers :
 
