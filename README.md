@@ -13,3 +13,13 @@ Le fichier server.py
 Le fichier poc.sh
 
         Script qui va se connecter au serveur et répondre oui puis affichier le FLAG
+
+Biensur pour des connexions plus complexe ce script devra etre adapté, je pense a des serveur qui envois plusieur ligne des explications, intéragisse plusieurs fois, etc...
+
+Mais là vous avez la base..
+
+la seul limite est qu'il faut nc sur la machine exécutant le script bash, le reste est natif.
+
+Have FUN in BASH !!
+
+\#BASH4EVER
